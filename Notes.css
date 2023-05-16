@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(50, 167, 140);
+}
+
+#button{
+    background-color: rgb(255, 242, 0);
+    justify-content: center;
+    margin-top: 85%;
+    color: black;
+    font-size: 3vh;
+    display: flex;
+    border: none;
+    height: 5vh;
+    width: 25vh;
+}
+
+#button2{
+    background-color: rgb(255, 242, 0);
+    justify-content: center;
+    margin-top: -10%;
+    margin-left: 50%;
+    color: black;
+    font-size: 3vh;
+    display: flex;
+    border: none;
+    height: 5vh;
+    width: 25vh;
+}
+
+#studentForm{
+    background-color: rgb(255, 242, 0);
+    box-shadow: 20px 18px 20px 0px;
+    margin-left: 37%;
+    margin-top: 11%;
+    height: 50vh;
+    width: 50vh;
+}
+
+.students{
+    font-family: 'Gochi Hand', cursive;
+    flex-direction: column;
+    margin-top: -48vh;
+    font-size: 2vh;
+    display: flex;
+    display: grid;
+    gap: 0px;
+}
+
+#area{
+    background-color: rgb(255, 242, 0);
+    width: 49.5vh;
+    border: none;
+    height: 3vh;
+}
+
